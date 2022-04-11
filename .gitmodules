@@ -1,0 +1,3 @@
+[submodule "spark/pyspark-recommender-system"]
+	path = spark/pyspark-recommender-system
+	url = https://github.com/mrzdtydlntm/pyspark-recommender-system.git
